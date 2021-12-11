@@ -25,8 +25,7 @@ public:
 private:
 	vector<Item> currentList;
 	vector<int> quantityList;
-	/*vector<string> itemCurrentList;
-	vector<int> itemQuantityCurrentList;*/
+
 
 };
 
